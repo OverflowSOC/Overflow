@@ -72,7 +72,7 @@ I am a security professional building the foundational skills for a career in cy
 ## Featured Projects
 This is the most important section. Each project needs its own repository with a detailed write-up. Think of it as a case study.
 
-### 1. Active Directory Home Lab & Threat Detection
+###  <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main/README.md?plain=1"> 1. Active Directory Home Lab & Threat Detection </a>
 In this project, I built a small enterprise environment to simulate real-world attack techniques and practice my detection and analysis skills using a SIEM.
 
 * **Repository Link:** [**View Project Details Here**](https://github.com/your-username/your-repo-name)
